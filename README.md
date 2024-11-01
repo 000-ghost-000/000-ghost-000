@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @000-ghost-000
+- 👋 Hi, I’m abhishek srivastava
 - 👀 I’m interested in building stuff and I have a natural nag for problem-solving
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on anything of interest
